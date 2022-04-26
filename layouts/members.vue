@@ -19,6 +19,18 @@ const props = defineProps({
   presenterImage: {
     type: String,
   },
+  m1:{
+    type: String,
+  },
+    m2:{
+    type: String,
+  },
+    m3:{
+    type: String,
+  },
+    m4:{
+    type: String,
+  },
 })
 </script>
 
@@ -36,7 +48,7 @@ const props = defineProps({
       <figure class="flex justify-center align-center  ">
         <div class="mx-2 text-center">
           <img
-            src="ta.jpeg"
+            :src="m1"
             class="
               relative
               rounded-full
@@ -51,7 +63,7 @@ const props = defineProps({
         </div>
         <div class="mx-2 text-center">
           <img
-            src="za.jpg"
+            :src="m2"
             class="
               relative
               rounded-full
@@ -66,7 +78,7 @@ const props = defineProps({
         </div>
         <div class="mx-2 text-center">
           <img
-            src="mj.jpeg"
+            :src="m3"
             class="
               relative
               rounded-full
@@ -82,7 +94,7 @@ const props = defineProps({
 
         <div class="mx-2 text-center">
           <img
-            src="f2.jpg"
+            :src="m4"
             class="
               relative
               rounded-full

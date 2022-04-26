@@ -8,6 +8,9 @@ const props = defineProps({
   eventLogo: {
     type: String,
   },
+    image_show: {
+    type: String,
+  },
   eventUrl: {
     type: String,
   },
@@ -26,6 +29,8 @@ const props = defineProps({
     <CornerCurves class="absolute left-0 top-0 transform rotate-90" />
     <div class="flex flex-col justify-center text-center">
       <slot />
+      <img  class="w-[500px] mx-auto" :src="image_show" />
+
     </div>
     <LayoutFooter
       :event-logo="eventLogo"

@@ -117,11 +117,11 @@ eventLogo: 'https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-ams
 eventUrl: 'https://vuejs.amsterdam/'
 twitter: '@tarek-berkane'
 twitterUrl: 'https://github.com/tarek-berkane'
+image_show: "/moadaly_web_frame.png"
 ---
 
 # تطبيق معدلي للحاسوب
 
-![penguin-work](moadaly_web_frame.png)
 
 ---
 layout: new-section
@@ -130,11 +130,11 @@ eventLogo: 'https://img2.storyblok.com/352x0/f/84560/2388x414/23d8eb4b8d/vue-ams
 eventUrl: 'https://vuejs.amsterdam/'
 twitter: '@tarek-berkane'
 twitterUrl: 'https://github.com/tarek-berkane'
+image_show: "/app.png"
 ---
 
 # تطبيق معدلي للهاتف
 
-![penguin-work](app.png)
 
 ---
 layout: members
@@ -144,6 +144,11 @@ twitter: '@tarek-berkane'
 
 twitterUrl: 'https://github.com/tarek-berkane'
 presenterImage: 'https://res.cloudinary.com/alvarosaburido/image/upload/v1622370075/as-portfolio/alvaro_saburido.jpg'
+
+m1: "ta.jpeg"
+m2: "za.jpg"
+m3: "mj.jpeg"
+m4: "f2.jpg"
 ---
 
 # Alvaro Saburido Rodriguez
