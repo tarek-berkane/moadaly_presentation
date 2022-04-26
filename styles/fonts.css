@@ -1,0 +1,31 @@
+/* @font-face {
+  font-family: 'Gilroy ExtraBold';
+  font-style: normal;
+  font-weight: bold;
+  font-display: swap;
+  src: local('Gilroy ExtraBold'),
+    url('/fonts/Gilroy-ExtraBold.otf') format('opentype'),
+    url('/fonts/Gilroy-ExtraBold.woff') format('woff');
+} */
+
+
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Cairo'),
+    url('/fonts/Cairo-Regular.ttf') format('ttf'),
+}
+
+
+
+
+
+/* 
+@font-face {
+  font-family: 'Almarai';
+  font-weight: 400;
+  src: local('Almarai'),
+    url('/fonts/Almarai-Regular.ttf') format('ttf'),
+} */
